@@ -1,0 +1,18 @@
+Component Name : Receptacle
+
+Part Count : 2
+
+Part : MTR?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : MTR?
+     Pins - (Normal) : 6
+          MTR-           1              Passive
+          ENC_GND        2              Passive
+          ENC_B          3              Passive
+          MTR+           4              Passive
+          ENC_VDD        5              Passive
+          ENC_A          6              Passive
+          Hidden Pins : 
+
